@@ -47,7 +47,7 @@ ls Command
 * `ls ..`    : shows files in the parent directory
 
     Example:
-        [Abdelrahman@debian] /home/Abdelrahman/ECOM4001/OSproject $ ls
+        [Logain@debian] /home/Logain/ECOM4001/OSproject $ ls
         file.bat  makefile  readme  s1  shellfinal.c  shellpro.c
 
 -------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ dir Command
     - `dir ..`   → parent directory
 
     Example:
-        [Abdelrahman@debian] /home/Abdelrahman/ECOM4001/OSproject $ dir ..
+        [Logain@debian] /home/Logain/ECOM4001/OSproject $ dir ..
         Lab1011  Lab2  Lab3  Lab4  Lab5  Lab6  Lab8  Lab9  OSproject
 
 -------------------------------------------------------------------------------
@@ -70,7 +70,7 @@ echo Command
 * `echo <text>`: prints the given text to the screen.
 
     Example:
-        [Abdelrahman@debian] $ echo Thank you Eng
+        [Logain@debian] $ echo Thank you Eng
         Thank you Eng
 
 -------------------------------------------------------------------------------
@@ -80,8 +80,8 @@ cd Command
 * `cd <directory>`: changes your current directory.
 
     Example:
-        [Abdelrahman@debian] $ cd ..
-        [Abdelrahman@debian] /home/Abdelrahman/ECOM4001 $
+        [Logain@debian] $ cd ..
+        [Logain@debian] /home/Logain/ECOM4001 $
 
 Note: After using `cd`, your terminal path updates to reflect the change.
 
@@ -111,7 +111,7 @@ cat Command
 * If the file does not exist, it will be created.
 
     Example:
-        [Abdelrahman@debian] $ cat OSproject
+        [Logain@debian] $ cat OSproject
 
 -------------------------------------------------------------------------------
 pwd Command
@@ -120,8 +120,8 @@ pwd Command
 * Shows the current working directory.
 
     Example:
-        [Abdelrahman@debian] $ pwd
-        /home/Abdelrahman/ECOM4001
+        [Logain@debian] $ pwd
+        /home/Logain/ECOM4001
 
 -------------------------------------------------------------------------------
 pause Command
@@ -130,7 +130,7 @@ pause Command
 * Stops program execution until the user presses Enter.
 
     Example:
-        [Abdelrahman@debian] $ pause
+        [Logain@debian] $ pause
         Paused  
         Press <Enter> key to continue
 
@@ -150,7 +150,7 @@ quit Command
 * Exits the shell.
 
     Example:
-        [Abdelrahman@debian] $ quit
+        [Logain@debian] $ quit
         Leaving...
 
 -------------------------------------------------------------------------------
@@ -160,10 +160,10 @@ exit Command
 * Also exits the shell, same as `quit`.
 
     Example:
-        [Abdelrahman@debian] $ exit
+        [Logain@debian] $ exit
         Leaving...
 
 -------------------------------------------------------------------------------
 
 Enjoy using Simple Shell!  
-Developed with by Abdelrahman, Hani, and Karam
+Developed with by Logain, Nuha, , Samar, and Doaa
