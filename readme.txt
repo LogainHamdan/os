@@ -36,7 +36,7 @@ Help Command
 * When you type `help`, a list of supported commands will appear on the screen.
 
     Example:
-        [Abdelrahman@debian] /home/Abdelrahman/ECOM4001/OSproject $ help
+        [Logain@debian] /home/Logain/ECOM4001/OSproject $ help
 
 -------------------------------------------------------------------------------
 ls Command
